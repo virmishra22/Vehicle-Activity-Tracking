@@ -24,7 +24,7 @@ namespace Vehicle_Activity_Tracking
             }
             catch (Exception ex)
             {
-               
+               // catch the exception
             }
             finally
             {
