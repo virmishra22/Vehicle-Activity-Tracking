@@ -1,0 +1,65 @@
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\Vehicle Activity Tracking.exe
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\Vehicle Activity Tracking.deps.json
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\Vehicle Activity Tracking.runtimeconfig.json
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\Vehicle Activity Tracking.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\Vehicle Activity Tracking.pdb
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\obj\Debug\net8.0-windows\Vehicle Activity Tracking.csproj.AssemblyReference.cache
+D:\Project\Schedule_Application\Vehicle Activity Tracking\obj\Debug\net8.0-windows\Vehicle_Activity_Tracking.Form1.resources
+D:\Project\Schedule_Application\Vehicle Activity Tracking\obj\Debug\net8.0-windows\Vehicle Activity Tracking.csproj.GenerateResource.cache
+D:\Project\Schedule_Application\Vehicle Activity Tracking\obj\Debug\net8.0-windows\Vehicle Activity Tracking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Schedule_Application\Vehicle Activity Tracking\obj\Debug\net8.0-windows\Vehicle Activity Tracking.AssemblyInfoInputs.cache
+D:\Project\Schedule_Application\Vehicle Activity Tracking\obj\Debug\net8.0-windows\Vehicle Activity Tracking.AssemblyInfo.cs
+D:\Project\Schedule_Application\Vehicle Activity Tracking\obj\Debug\net8.0-windows\Vehicle Activity Tracking.csproj.CoreCompileInputs.cache
+D:\Project\Schedule_Application\Vehicle Activity Tracking\obj\Debug\net8.0-windows\Vehicle .5F12BA39.Up2Date
+D:\Project\Schedule_Application\Vehicle Activity Tracking\obj\Debug\net8.0-windows\Vehicle Activity Tracking.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\obj\Debug\net8.0-windows\refint\Vehicle Activity Tracking.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\obj\Debug\net8.0-windows\Vehicle Activity Tracking.pdb
+D:\Project\Schedule_Application\Vehicle Activity Tracking\obj\Debug\net8.0-windows\Vehicle Activity Tracking.genruntimeconfig.cache
+D:\Project\Schedule_Application\Vehicle Activity Tracking\obj\Debug\net8.0-windows\ref\Vehicle Activity Tracking.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Project\Schedule_Application\Vehicle Activity Tracking\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
